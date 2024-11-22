@@ -1,0 +1,57 @@
+name: marylouise.corkery
+description: alliance
+version: 0.0.1
+author: 0foyynxp.qnrkvtix@ktjm0hjq.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: marylouisecorkery
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:17:58'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:17:58'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:17:58.442235Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '305191044'
+  createdAt: '2024-11-22T20:17:58.442235Z'
+  type: plibMaven
+projectDependencies:
+  '360':
+    projectUID: 360
+    projectName: daniele.grady
+    repositoryPath: gitUri=http://gitserver:3000/dev_PFFGkpFA_team_594/dev_PFFGkpFA_project_360.git&subPath=
+    version: daniele.grady/0.45.87
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:17:58'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
